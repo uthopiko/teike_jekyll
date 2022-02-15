@@ -1,0 +1,167 @@
+sections:
+- name: "BURGER"
+  note: "(SÓLO SERVICIOS DE CENA)"
+  dishes:
+  -  name: "Yisucrist"
+     description: "Vacavieja, cebolla, bacon, cheddar, salsa brava, lechuga y tomate"
+     price: "9'50 €"
+
+  -  name: "Gaulle 2.0"
+     description: "Vacavieja, queso lactebal, jamón ibérico, huevo y mayonesa teriyaki"
+     price: "9'50 €"
+
+  -  name: "Papadaz Blai"
+     description: "Vacavieja, queso lactebal, papada ibérica, cebolla pochada, salsa holandesa y mayonesa de ají cítrica"
+     price: "9'50 €"
+
+  -  name: "Kruntxi"
+     description: "Pollo kruntxi, cheddar, guacamole, pico de gallo, lechuga, tomate y chipotle"
+     price: "9'50 €"
+
+  -  name: "Kanela"
+     description: "Rabo desmigado, brie, bacon, foie y mayonesa teriyaki"
+     price: "9'50 €"
+
+  -  name: "Cochinita"
+     description: "Cochinita pibil en capas con queso lactebal, papada ibérica, guacamole, crème fraîche y cebolla encurtida"
+     price: "9'50 €"
+
+  -  name: "Vegan Life"
+     description: "Hamburguesa de edamame y tofu kruntxi, cebolla pochada, mojo de aguacate y alioli de soja trufado"
+     price: "9'50 €"
+
+- name: "ENTRANTES"
+  note: ""
+  dishes:
+  -  name: "Ensalada de burrata, tomate seco, pesto de aguacate y cebolla"
+     description: ""
+     price: "12'50 €"
+
+  -  name: "Anchoas en “mariposa” de Mutriku"
+     description: ""
+     price: "20'00 €"
+
+  -  name: "Paletilla de jamón ibérico 100% bellota Carrasco"
+     description: ""
+     price: "19'00 €"
+
+  -  name: "Tartar de atún rojo, yema y trufa negra"
+     description: ""
+     price: "18'50 €"
+
+  -  name: "Patatas bravas"
+     description: ""
+     price: "5'50 €"
+
+  -  name: "Tartiflette con queso reblochon y crème fraîche"
+     description: ""
+     price: "8'00 €"
+
+  -  name: "Pollo Kruntxi con chipotle y sweet chili"
+     description: ""
+     price: "7'00 €"
+
+  -  name: "Quesadillas con pollo de corral, pico gallo, chipotle y mojo de aguacate"
+     description: ""
+     price: "8'50 €"
+
+  -  name: "Taco de cochinita pibil con emulsión de ají, papada ibérica y mojo de aguacate (3 uds)"
+     description: ""
+     price: "8'50 €"
+
+  -  name: "Bao de pato, sriracha, mayonesa japonesa, pan gamba y cebolla encurtida (3 uds)"
+     description: ""
+     price: "8'50 €"
+
+  -  name: "Katsu Sando de rabo, emulsión de ají, mayonesa japonesa y brotes (2 uds)"
+     description: ""
+     price: "9'50 €"
+
+- name: "PLATOS"
+  note: ""
+  dishes:
+  -  name: "Pisto al curry panang con huevo a baja temperatura"
+     description: ""
+     price: "10'50 €"
+
+  -  name: "Flautas Xakamuka (tres canelones de harina de maíz rellenos de pollo, cebolla y queso con guacamole y crème fraîche)"
+     description: ""
+     price: "12'50 €"
+
+  -  name: "Revuelto de patatas, hongos, foie, yema de huevo y trufa"
+     description: ""
+     price: "15'50 €"
+
+  -  name: "Lasaña wonton de vaca vieja y espuma de idiazabal"
+     description: ""
+     price: "12'50 €"
+
+  -  name: "Ravioli relleno de rabo con salsa huancaina"
+     description: ""
+     price: "14'50 €"
+
+  -  name: "Rigatoni carbonara con panceta confitada y trufa negra"
+     description: ""
+     price: "14'50 €"
+
+  -  name: "Arroz “a la llauna” de calamar y carabinero"
+     description: ""
+     price: "23'50 €"
+
+  -  name: "Arroz “a la llauna” de pato y foie"
+     description: ""
+     price: "18'50 €"
+
+  -  name: "Rissotto alla tartufata con hongos y jamon"
+     description: ""
+     price: "13'50 €"
+
+  -  name: "Bacalao Club Ranero (piperrada, pilpil y bizkaina)"
+     description: ""
+     price: "17'50 €"
+
+  -  name: "Lubina a la brasa con pilpil de sus espinas"
+     description: ""
+     price: "19'50 €"
+
+  -  name: "Gyozas de txangurro, salsa americana/chili y wakame"
+     description: ""
+     price: "15'50 €"
+
+  -  name: "Costilla deshuesada con parmentier de calabaza asada y patatas"
+     description: ""
+     price: "14'50 €"
+
+  -  name: "Carrillera de vaca vieja con parmentier de patata y hongos"
+     description: ""
+     price: "14'50 €"
+
+  -  name: "Entrecot a la brasa con pastel de patata"
+     description: ""
+     price: "18'50 €"
+
+- name: "POSTRES"
+  note: ""
+  dishes:
+  - name: "Torrija de brioche rebozada en toffee"
+    description: ""
+    price: "8'50 €"
+
+  - name: "Coulant 100% Kaitxo (txokolate km0 Balmaseda)"
+    description: ""
+    price: "7'00 €"
+
+  - name: "Tiramisú"
+    description: ""
+    price: "6'00 €"
+
+  - name: "Tarta de queso"
+    description: ""
+    price: "6'00 €"
+
+- name: "SECUNDARIOS"
+  note: "(PARA IDIOTA)"
+  dishes:
+  - name: "Morcilla"
+    description: "de burgos"
+    price: "200'50 €"
