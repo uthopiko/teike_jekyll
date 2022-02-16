@@ -158,10 +158,3 @@ sections:
   - name: "Tarta de queso"
     description: ""
     price: "6'00 €"
-
-- name: "SECUNDARIOS"
-  note: "(PARA IDIOTA)"
-  dishes:
-  - name: "Morcilla"
-    description: "de burgos"
-    price: "200'50 €"
