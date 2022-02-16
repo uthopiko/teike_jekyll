@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;500&display=swap" rel="stylesheet">    
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <title></title>
+    </head>
+    <body>
+        <nav class="desktop_nav">
+            <div class="logo"><img src="/assets/images/logo.png" width="217" height="86" alt="Logo Teike"></div>
+            <div class="desktop_menu">
+                <a href="/index">¿Quienes somos?</a>
+                <a href="/menu-del-dia">Menu del dia</a>
+                <a href="/menu-degustacion">Menu Degustación</a>
+                <a href="/carta">A la carta</a>
+            </div>
+            <div class="responsive_menu">
+                <span class="menu_responsive"><label for="menu_checked">Menu<img src="/assets/images/menu_open.svg" /></label></span>
+            </div>
+        </nav>            <main>
+                <div class="main_content visible">        
+                    
+
+                </div>
+                <div class="menu_content">
+                    <nav>
+                        <div class="mobile_menu">
+                            <a href="/index">¿Quienes somos?</a>
+                            <a href="/menu-del-dia">Menu del día</a>
+                            <a href="/menu-degustacion">Menu Degustación</a>
+                            <a href="/carta">A la carta</a>
+                        </div>
+                    </nav>
+                </div>
+            </main>
+            <footer>
+                <div class="booking">
+                    Reservas:
+                    <a href="tel:688669589">
+                        <img src="/assets/images/phone.svg" class="icon">
+                    </a>
+                    <a id="whatsapp" href="https://api.whatsapp.com/send?phone=34688669589">
+                        <img src="/assets/images/whatsapp.svg" class="icon">
+                    </a>
+                </div>
+                <div class="social_networks">
+                    <img src="/assets/images/facebook.svg" class="icon">
+                    <img src="/assets/images/instagram.svg" class="icon">
+                </div>
+                <div class="address">
+                    <a target="_blank" href="https://goo.gl/maps/ZAzX7T7gqu4crFzK8">
+                        C\ Martin Mendia 5, Balmaseda, Bizkaia  <img src="/assets/images/map.svg" class="icon">
+                    </a>
+                </div>
+            </footer>
+        <script>
+            const menuResponsive = document.querySelector(".menu_responsive");
+            menuResponsive.addEventListener("click", (event) => {
+                document.querySelector(".menu_content").classList.toggle('visible');
+                document.querySelector(".main_content").classList.toggle('visible');
+            });
+    
+        </script>
+    </body>
+</html>
