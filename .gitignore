@@ -1,4 +1,4 @@
-docs/
+docs/* 
 !docs/.gitkeep
 _site
 .sass-cache
