@@ -1,0 +1,19 @@
+sections:
+  - name: "Primeros"
+    dishes:
+      - "Putxera de marmitako"
+      - "Pisto con huevo a baja temperatura"
+      - "Ravioli de rabo con salda huancaina"
+      - "Crema de chirivia con lascas de bakalao"
+  - name: "Segundos"
+    dishes:
+      - "Solomillo de cerdo con salsa a la pimienta"
+      - "Pescado a la brasa"
+      - "Merluza en salsa verde"
+      - "Costillas confitadas con crema de calabaza"
+  - name: "Postres"
+    dishes:
+      - "Cremoso de mascarpone con Brownie"
+      - "Torrija"
+      - "Natillas"
+      - "Yogurt casero con fresas"

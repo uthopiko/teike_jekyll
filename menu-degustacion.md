@@ -3,7 +3,6 @@ layout: default
 title: Menu Degustación
 permalink: /menu-degustacion/
 ---
-<div class="menu_degustacion_title">MENÚ DEGUSTACIÓN</div>
 <div class="menu_degustacion_subtitle"><span class="menu_number">BAJO RESERVA</span></div>
 {% for menu_item in site.data.menu %}
 {% if menu_item.id == 0 %}

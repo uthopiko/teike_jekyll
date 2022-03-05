@@ -3,7 +3,6 @@ layout: default
 title: Carta
 permalink: /carta/
 ---
-<div class="menu_degustacion_title">CARTA</div>
 {% for section in site.data.carta.sections %}
 <div class="menu_degustacion_subtitle">{{ section.name }} {{section.note}}</div>
 {% for dish in section.dishes %}
